@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM ubuntu:trusty
 
 LABEL maintainer "Marvin Steadfast <marvin@xsteadfastx.org>"
 
